@@ -1,0 +1,19 @@
+segment_sources:
+  I5D6FF186:
+    type: origin_type
+    relation: translation
+    language: en
+  I8FBA6FFA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5f0fd60ced2245efb5071c96a10dd83e:
+    I5D6FF186: 66c89fa43fe74166b2a9c005a0daea53
+    I8FBA6FFA: e2015c04499a486aa5b4d82244788490
+  0072720f201549778c5695c624aae42a:
+    I5D6FF186: d78ade9ff0d34c2eb49a3c680cbe7e21
+    I8FBA6FFA: 05d0c3bdfe7f4ffb9f157eaa102fe9b5
+  242437cc14e549c49682382a4ebd9f99:
+    I5D6FF186: ef71eaf735414a35b33764d445b94cc6
+    I8FBA6FFA: 9773c3c6eb2e44a2afd2d74b8102692c
